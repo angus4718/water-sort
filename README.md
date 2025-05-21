@@ -36,8 +36,8 @@ This project includes:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/angus4718/water_sort.git
-   cd water_sort
+   git clone https://github.com/angus4718/water-sort.git
+   cd water-sort
    ```
 
 2. **Install Dependencies** (if any):
